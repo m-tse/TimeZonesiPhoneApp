@@ -156,7 +156,7 @@ struct ContentView: View {
                 .padding(.top, 6)
                 .padding(.bottom, 0)
             }
-            .navigationTitle("Time Zones")
+            .navigationTitle("Meridian")
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
                 ToolbarItem(placement: .navigationBarLeading) {
